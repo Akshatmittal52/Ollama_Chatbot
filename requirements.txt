@@ -2,6 +2,6 @@ langchain
 langchain-community 
 streamlit 
 streamlit_chat 
-chromadb 
+chromadb==0.3.29 
 pypdf 
 fastembed
